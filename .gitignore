@@ -13,9 +13,7 @@
 *.a
 
 # Codelite Settings
-/*.project
 /*.tags
-/*.workspace
 /*.session
 /Debug
 /Release
